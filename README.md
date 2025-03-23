@@ -1,5 +1,5 @@
 Hello there! 👋
-
+I’m Shravani, a Computer Science Engineering graduate with a keen interest in frontend development and cybersecurity.
 🔭 I’m currently working on my portfolio website using React.js and Tailwind CSS.
 🌱 I’m currently learning backend development (Node.js) and exploring product management.
 👯 I’m looking to collaborate on frontend development projects, IT company websites, and chatbot integration.
