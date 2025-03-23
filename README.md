@@ -5,7 +5,7 @@ I’m Shravani, a Computer Science Engineering graduate with a keen interest in 
 👯 I’m looking to collaborate on frontend development projects, IT company websites, and chatbot integration.
 🤔 I’m looking for help with improving my React.js skills and gaining hands-on backend experience.
 💬 Ask me about HTML, CSS, JavaScript, frontend development, IT company websites, chatbots, cybersecurity, and photography/videography.
-📫 How to reach me: https://www.linkedin.com/in/shravani-mudlapur/
+📫 How to reach me: shravanimudlapur16@gmail.com
 
 <!--
 **ShravaniMudlapur/ShravaniMudlapur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
